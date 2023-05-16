@@ -98,8 +98,7 @@ print("RMSE= ",rmse)
 
 ![image](https://user-images.githubusercontent.com/119401038/229291222-71154c15-007a-4520-b2ae-5e34db68ef0a.png)
 
-![image](https://user-images.githubusercontent.com/119401038/229291243-4677d36c-e535-43a0-b485-bc80068746bf.png)
-
+![image](https://github.com/Meetha22003992/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119401038/c7435e0e-533d-4842-af3e-29950b3bf091)
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
