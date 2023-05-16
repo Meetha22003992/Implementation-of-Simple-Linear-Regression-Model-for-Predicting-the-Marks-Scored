@@ -82,7 +82,7 @@ print("RMSE= ",rmse)
 ```
 
 ## Output:
-![image](https://user-images.githubusercontent.com/119401038/229291102-fedc2b28-e511-40fd-b0a4-426b0715eb3d.png)
+![image](https://github.com/Meetha22003992/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119401038/e717a249-bf18-43ec-a3b8-0ef4a9c713f2)
 
 ![image](https://user-images.githubusercontent.com/119401038/229291125-e50d2997-2349-43b2-8201-0fc8d246d8a2.png)
 
@@ -90,9 +90,9 @@ print("RMSE= ",rmse)
 
 ![image](https://user-images.githubusercontent.com/119401038/229291171-10496903-fbf8-4cd5-8ac2-df269741571b.png)
 
-![image](https://user-images.githubusercontent.com/119401038/229291186-be9833e2-44ec-4ae4-8d76-f0c54a21b2aa.png)
+![image](https://github.com/Meetha22003992/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119401038/9b489838-ec7c-4e37-a16d-d0415462e402)
 
-![image](https://user-images.githubusercontent.com/119401038/229291201-eaa03995-4dff-40e9-9708-13ad1eba72c9.png)
+![image](https://github.com/Meetha22003992/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119401038/2351fab4-56dd-425c-9047-c5d030fd6fbb)
 
 ![image](https://user-images.githubusercontent.com/119401038/229291213-535f7864-a346-4e9b-b998-a8a7b144800d.png)
 
